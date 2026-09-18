@@ -1,4 +1,4 @@
-<h1>Cybersecurity Project – Splunk SIEM Fundamentals & Environment Setup</h1>
+<h1>Splunk SIEM Fundamentals & Environment Setup</h1>
 
 <h2>Description</h2>
 
