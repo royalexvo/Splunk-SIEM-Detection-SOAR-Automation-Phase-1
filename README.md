@@ -51,7 +51,7 @@ Create a dedicated Splunk-SIEM virtual machine in Oracle VirtualBox using Ubuntu
 
 <p align="center">
 <b>Step 2 – Configure VirtualBox Networking</b><br/><br/>
-Configure the Splunk virtual machine with a NAT adapter for internet connectivity and a Host-only adapter for communication with the existing Active Directory lab environment. Verify network interfaces and connectivity between the systems:<br/>
+Configure the Splunk virtual machine with a NAT adapter for internet connectivity and a Host-Only adapter for communication with the Windows host computer. Assign the Ubuntu server a static IP address of 192.168.56.20 and verify connectivity to the Windows host at 192.168.56.1. Confirm internet access by successfully pinging google.com. Communication with the other Active Directory lab virtual machines will be configured and tested in later phases:<br/>
 <a href="https://raw.githubusercontent.com/royalexvo/Splunk-SIEM-Detection-SOAR-Automation-Phase-1/main/Step2.png"><img src="https://github.com/royalexvo/Splunk-SIEM-Detection-SOAR-Automation-Phase-1/blob/main/Step2.png?raw=true" height="80%" width="80%" alt="Project Steps"/></a>
 </p>
 
