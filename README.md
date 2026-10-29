@@ -45,7 +45,7 @@ This phase establishes the foundational Splunk knowledge and environment require
 
 <p align="center">
 <b>Step 1 – Install and Configure Ubuntu Server</b><br/><br/>
-Create a dedicated Splunk-SIEM virtual machine in Oracle VirtualBox using Ubuntu Server 24.04.5 LTS. Allocate 8 GB of RAM, 4 CPU cores, and a 100 GB virtual disk. Complete the Ubuntu installation, configure the administrator account, enable OpenSSH, and install available system updates:<br/>
+Create a dedicated Splunk-SIEM virtual machine in Oracle VirtualBox using Ubuntu Server 24.04.5 LTS. Allocate 8 GB of RAM, 4 CPU cores, and a 100 GB virtual disk. Complete the Ubuntu installation, configure the administrator account, and install available system updates:<br/>
 <a href="https://raw.githubusercontent.com/royalexvo/Splunk-SIEM-Detection-SOAR-Automation-Phase-1/main/Step1.png"><img src="https://github.com/royalexvo/Splunk-SIEM-Detection-SOAR-Automation-Phase-1/blob/main/Step1.png?raw=true" height="80%" width="80%" alt="Project Steps"/></a>
 </p>
 
